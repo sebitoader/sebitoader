@@ -48,4 +48,4 @@ OOP Design Patterns, Linux Syscalls, MPI, HTTP/REST
 
 ## Contact
 
-📧 sebytoader2004@gmail.com
+📧 andreisebastiantoader@gmail.com
